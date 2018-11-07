@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WiFi_projekt</string>
+    <string name="wi_fi_off">Wi-fi off</string>
+    <string name="wi_fi_on">Wi-fi on</string>
+    <string name="wi_fi">Wi-fi</string>
+    <string name="scan">Scan</string>
+    <string name="scanning">Scanning...</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
