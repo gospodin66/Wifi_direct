@@ -112,7 +112,7 @@ public class Peers_List_Fragment extends Fragment implements WifiP2pManager.Peer
 
             @Override
             public void onSuccess() {
-                // WiFiDirectBroadcastReceiver notifies us. Ignore for now.
+                // WiFiDirectBroadcastReceiver notifies
             }
 
             @Override
